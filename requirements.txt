@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+passlib>=1.7.4
+python-dotenv>=0.21.0
+groq>=0.3.0
+extra-streamlit-components>=0.1.53
